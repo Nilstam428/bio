@@ -1,0 +1,59 @@
+{
+    "profile": {
+        "name": "Avirastra",
+        "bio": "Transform Your Business With Technology You Can Trust",
+        "image": "/AvirastaFavicon(256x256).png"
+    },
+    "links": [
+        {
+            "id": "1",
+            "title": "Official Website",
+            "url": "https://avirastra.com/"
+        },
+        {
+            "id": "2",
+            "title": "About Us",
+            "url": "https://avirastra.com/about"
+        },
+        {
+            "id": "3",
+            "title": "Contact Us",
+            "url": "https://avirastra.com/contact"
+        },
+        {
+            "id": "4",
+            "title": "Pricing",
+            "url": "https://avirastra.com/pricing"
+        }
+    ],
+    "socials": [
+        {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/@Avirastra"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/avirastra/"
+        },
+        {
+            "platform": "threads",
+            "url": "https://www.threads.com/@avirastra/"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=61587165115974"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://x.com/avirastra"
+        },
+        {
+            "platform": "bluesky",
+            "url": "https://bsky.app/profile/avirastra.bsky.social"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/company/avirastra/"
+        }
+    ]
+}

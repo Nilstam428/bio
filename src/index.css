@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background-start: #a86242;
+  --color-background-end: #3b3d44;
+}
+
+body {
+  background: linear-gradient(180deg, var(--color-background-start) 0%, var(--color-background-end) 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
